@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Computer Science and Engineering student passionate about **software development, web development, and cloud security**.
+Computer Science and Engineering student passionate about **web development, and cloud security**.
 
 ## 💻 Technical Skills
 
