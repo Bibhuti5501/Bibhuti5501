@@ -1,15 +1,41 @@
-<h1 align="center">Hi 👋, I'm Bibhuti Bhushan</h1>
-<h3 align="center">I am Web developer and creative with my work.</h3>
+# Hi there, I'm Bibhuti Bhushan! 👋
 
-- 🔭 I’m currently working on **Bank-Management-System**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Cloud Storage Security**
+Computer Science and Engineering student passionate about **software development, web development, and cloud security**.
 
-- 🤝 I’m looking for help with **Portfolio**
+## 💻 Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Programming Languages:** Java, JavaScript, PHP
+- **Web Development:** HTML, CSS, React.js, Node.js, DBMS
+- **Cybersecurity & ML:** Machine Learning for Cloud Security, Anomaly Detection, Threat Detection
+- **Other Technologies:** Flex & Bison, Blockchain Development, Cloud Computing, API Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🏆 Projects
+
+### 🔹 [ShopX - E-commerce Website](https://github.com/your-repo)
+
+Revolutionizing online shopping with a seamless and personalized experience for customers.
+
+### 🔹 [Cloud Security Enhancement using ML](https://github.com/your-repo)
+
+Focused on **Intrusion Detection, Threat Detection, and Anomaly Detection**, leveraging ML to improve security.
+
+### 🔹 [Bank Management System](https://github.com/your-repo)
+
+A Java-based banking system with separate portals for customers, employees, and admins.
+
+## 🎯 Currently Working On
+
+- Enhancing **cloud security with machine learning** 🔐
+- Developing **freelancer service marketplace** for better outreach 🚀
+- Strengthening my **blockchain development** skills ⛓️
+
+## 📫 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/bibhuti-bhushan](https://www.linkedin.com/in/bibhuti-bhushan)
+- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+🌟 *“Code, Learn, and Build for a Better Future!”*
+
