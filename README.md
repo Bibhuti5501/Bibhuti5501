@@ -31,11 +31,6 @@ A Java-based banking system with separate portals for customers, employees, and 
 - Developing **freelancer service marketplace** for better outreach 🚀
 - Strengthening my **blockchain development** skills ⛓️
 
-## 📫 Let's Connect!
-
-- **LinkedIn:** [linkedin.com/in/bibhuti-bhushan](https://www.linkedin.com/in/bibhuti-bhushan)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 🌟 *“Code, Learn, and Build for a Better Future!”*
 
