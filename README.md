@@ -13,7 +13,7 @@ Computer Science and Engineering student passionate about **web development, and
 
 ## 🏆 Projects
 
-## 🔹 [ShopX - E-commerce Website]([https://github.com/your-repo](https://github.com/Bibhuti5501/ShopX---E-Commerse-.git)
+### 🔹 [ShopX - E-commerce Website]([https://github.com/your-repo](https://github.com/Bibhuti5501/ShopX---E-Commerse-.git)
 
 Revolutionizing online shopping with a seamless and personalized experience for customers.
 
