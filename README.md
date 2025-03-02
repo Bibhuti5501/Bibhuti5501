@@ -13,15 +13,15 @@ Computer Science and Engineering student passionate about **web development, and
 
 ## 🏆 Projects
 
-### 🔹 [ShopX - E-commerce Website](https://github.com/your-repo)
+## 🔹 [ShopX - E-commerce Website]([https://github.com/your-repo](https://github.com/Bibhuti5501/ShopX---E-Commerse-.git)
 
 Revolutionizing online shopping with a seamless and personalized experience for customers.
 
-### 🔹 [Cloud Security Enhancement using ML](https://github.com/your-repo)
+## 🔹 [Cloud Security Enhancement using ML]
 
 Focused on **Intrusion Detection, Threat Detection, and Anomaly Detection**, leveraging ML to improve security.
 
-### 🔹 [Bank Management System](https://github.com/your-repo)
+### 🔹 [Bank Management System]([https://github.com/your-repo](https://github.com/Bibhuti5501/Bank-Management-System/tree/main/src))
 
 A Java-based banking system with separate portals for customers, employees, and admins.
 
