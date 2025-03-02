@@ -6,7 +6,7 @@ Computer Science and Engineering student passionate about **web development, and
 
 ## 💻 Technical Skills
 
-- **Programming Languages:** Java, JavaScript, PHP
+- **Programming Languages:** Java, JavaScript, C#
 - **Web Development:** HTML, CSS, React.js, Node.js, DBMS
 - **Cybersecurity & ML:** Machine Learning for Cloud Security, Anomaly Detection, Threat Detection
 - **Other Technologies:** Flex & Bison, Blockchain Development, Cloud Computing, API Development
